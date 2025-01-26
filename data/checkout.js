@@ -1,0 +1,1 @@
+import '../data/backend-pratice.js'
